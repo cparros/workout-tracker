@@ -11,3 +11,6 @@ Heroku Deployed Application [click here](https://serene-taiga-73545.herokuapp.co
 
 ![dashboard-image](./assets/images/dashboard.png)
 ![dashboard-image](./assets/images/last-workout.png)
+
+# Questions
+Celparros@gmail.com
